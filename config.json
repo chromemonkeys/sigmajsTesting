@@ -5,16 +5,16 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Anonymous"
   },
   "text": {
     "more": "Description",
     "intro": "Short desctiption",
-    "title": ""
+    "title": "Sarafu Network"
   },
   "legend": {
-    "edgeLabel": "transfer",
-    "colorLabel": "location",
+    "edgeLabel": "Transfers",
+    "colorLabel": "Area Name",
     "nodeLabel": "person"
   },
   "features": {
