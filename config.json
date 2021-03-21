@@ -20,7 +20,7 @@
   "features": {
     "search": true,
     "groupSelectorAttribute": "area_name",
-    "hoverBehavior": "dim"
+    "hoverBehavior": "arrow"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
@@ -28,7 +28,7 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "arrow",
+      "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
