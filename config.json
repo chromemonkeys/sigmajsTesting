@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "Colors indicate business type. Clusters neturally form among local areas. Node size is scaled by eigenvector centrality - a measure of the importance of the node to the network. ",
-    "intro": "Sarafu Network",
+    "intro": "Colors indicate business type. Clusters neturally form among local areas. Node size is scaled by eigenvector centrality - a measure of the importance of the node to the network. ",
     "title": "Sarafu Network"
   },
   "legend": {
@@ -20,7 +20,7 @@
   "features": {
     "search": true,
     "groupSelectorAttribute": "area_name",
-    "hoverBehavior": "default"
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
